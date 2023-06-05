@@ -1,6 +1,8 @@
 # ThreeJS Demo Portfolio
 
-**[Live demo](https://tushar-portolio-threejs.vercel.app/)**
+**[Live demo](https://tushar-3js-portfolio.vercel.app/)**
+
+
 
 
 ![Home page screenshot](public/social/screenshot.png?raw=true "Home page screenshot")
